@@ -17,7 +17,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Overview | Moonbase DAO
+        Overview | Liberland DAO
       </title>
     </Head>
     <Box
