@@ -1,6 +1,6 @@
-# moonbase.app
+# liberland.app
 
-[![Node.js CI](https://github.com/MoonBaseDAO/moonbase-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/MoonBaseDAO/moonbase-app/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/DaneBennettWalter/liberland/actions/workflows/node.js.yml/badge.svg)](https://github.com/DaneBennettWalter/liberland/actions/workflows/node.js.yml)
 
 It's as easy as 1-2-3 & Done.
 
@@ -8,7 +8,7 @@ It's as easy as 1-2-3 & Done.
 first download it to your machine and enter into the file directory::
 
 ```
-git clone https://github.com/moonbasedao/moonbase-app.git && cd moonbase-app
+git clone https://github.com/DaneBennettWalter/liberland.git && cd liberland
 ```
 
 2) After opening the folder in your command line or IDE, open a terminal and type:
